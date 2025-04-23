@@ -1,4 +1,4 @@
-# ✈️ Spatiotemporal Forecasting and Predictive Modeling in Airline Operations with SARIMA
+# Spatiotemporal Forecasting and Predictive Modeling in Airline Operations with SARIMA
 
 This project explores time series forecasting and predictive modeling in the context of airline operations. Using a real-world inspired airline passenger dataset, the project applies SARIMA (Seasonal ARIMA) models to forecast future passenger trends while also analyzing key patterns in passenger demographics, flight routes, and delays.
 
